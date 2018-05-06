@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>red-min</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Payment-Driver-&amp;-Partner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-335.000000, -828.000000)">
+        <g id="Family-Section" transform="translate(0.000000, 704.000000)" fill="#F1352B" fill-rule="nonzero">
+            <g id="btn/error" transform="translate(335.000000, 124.000000)">
+                <path d="M12.5,0 C5.59676656,0 0,5.59653218 0,12.5 C0,19.4034678 5.59676656,25 12.5,25 C19.4039952,25 25,19.4034678 25,12.5 C25,5.59653218 19.4037608,0 12.5,0 Z M4,11 L21,11 L21,13.5 L4,13.5 L4,11 Z" id="red-min"></path>
+            </g>
+        </g>
+    </g>
+</svg>

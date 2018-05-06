@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ic/24/collapse" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-6.000000, -8.000000)">
+        <path d="M18,8.68375795 C18,8.83389051 17.9499558,8.98558696 17.8498674,9.11226131 L12.5185975,15.7399885 C12.3887954,15.9010682 12.1933103,15.9949011 11.9853141,15.9949011 C11.7788819,15.9949011 11.5818329,15.9010682 11.4535946,15.7399885 L6.15047457,9.14041116 C5.91432855,8.84640156 5.96124498,8.41633432 6.25525459,8.1801883 C6.54926419,7.94404229 6.97933143,7.99095872 7.21547745,8.28496832 L11.986878,14.2214601 L16.7848646,8.25525459 C17.0210106,7.96124498 17.4510778,7.91432855 17.7450874,8.15047457 C17.9124227,8.2865322 18,8.48358119 18,8.68375795 L18,8.68375795 Z" id="arrow-up" fill="#363A45" transform="translate(12.000000, 11.997451) rotate(-180.000000) translate(-12.000000, -11.997451) "></path>
+    </g>
+</svg>
